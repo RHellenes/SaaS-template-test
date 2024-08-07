@@ -13,7 +13,7 @@ hero:
       to: '/signup'
       size: xl
       color: black
-      icon: i-heroicons-arrow-right-20-solid
+      icon: i-heroicons-arrow-right-20-
       trailing: true
     - label: Use this template
       icon: i-simple-icons-github
